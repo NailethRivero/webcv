@@ -1,0 +1,9 @@
+img{
+    float: left;
+    width: 130px;
+    margin-right: 5%;
+}
+legend{
+    border: solid 1px black;
+    background-color: rgb(206, 250, 215);
+}
