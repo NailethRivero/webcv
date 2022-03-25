@@ -1,9 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Chicle&family=Cookie&family=Oswald&display=swap');
+body{
+    background-color: rgb(196, 240, 225);
+    font-family: 'Oswald', sans-serif;
+}
 img{
     float: left;
-    width: 130px;
+    width: 150px;
     margin-right: 5%;
 }
 legend{
     border: solid 1px black;
-    background-color: rgb(206, 250, 215);
+    background-color: rgb(153, 245, 170);
 }
